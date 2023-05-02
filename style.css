@@ -95,10 +95,10 @@
 }
 #Tqdiv{
     color: brown;
-    padding-left: 300px;
+    padding-left: 150px;
 }
 #tqname{
-    padding-left:500px;
+    padding-left:310px;
 }
 #content{
     color:green;
@@ -124,10 +124,11 @@
 }
 #bydiv{
     position: relative;
-    right: -500px;
+    padding-left: 300px;
     color: darkmagenta;
     
 }
+
 #total_days{
     border-radius: 200px;
 }
