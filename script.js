@@ -1,5 +1,6 @@
 function Generate()
 {
+    alert("make sure your mobile in landscape")
     let content;
     let name = document.getElementById("name_input").value
     let address = document.querySelector("#address_input").value
